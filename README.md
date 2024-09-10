@@ -14,3 +14,9 @@ Este sistema utiliza um banco de dados MySQL, que inclui as seguintes tabelas pr
 - A tabela `documento_vara` se relaciona com `presos` e `juiz`.
 - A tabela `notificacao_sap` se relaciona com `documento_vara`, `juiz`, `presos`, e `responsavel_sap`.
 - A tabela `tornozeleira` se relaciona com `notificacao_sap`.
+
+
+
+
+
+**OBS**: Os dados fornecidos no código são apenas exemplos, sem conexão com pessoas reais.
